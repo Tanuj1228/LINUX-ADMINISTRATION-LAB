@@ -26,4 +26,5 @@ mkdir friends family work
 ls
 
 ```
-#
+#![lab1](https://github.com/user-attachments/assets/fe6c5949-0354-4874-8c4b-5101220b5673)
+
