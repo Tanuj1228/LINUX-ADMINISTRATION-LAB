@@ -82,3 +82,7 @@ ls -l
 ```
 
 #
+![4 1](https://github.com/user-attachments/assets/16da8142-1c61-4432-9dc9-2f211aa58bac)
+![4 2](https://github.com/user-attachments/assets/5c5e2351-57cd-4953-981f-1596abb1553a)
+![4 3](https://github.com/user-attachments/assets/e80dbd49-fc73-48e3-b784-37649f513981)
+![4 4](https://github.com/user-attachments/assets/0b76aadc-8ad5-4e59-9f72-85c5eec3483f)
