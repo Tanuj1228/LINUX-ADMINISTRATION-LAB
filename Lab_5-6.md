@@ -65,3 +65,8 @@ cat editing_final_lab.txt
 ```
 
 #
+![lab3 1](https://github.com/user-attachments/assets/2b1d8a08-87dc-47fe-9768-6d16a1695d5f)
+![3 2](https://github.com/user-attachments/assets/864fde01-d728-472a-a89e-0c1d02d3078b)
+![3 3](https://github.com/user-attachments/assets/22838d50-9f10-4462-a049-e668bc290e53)
+![3 4](https://github.com/user-attachments/assets/931fb7e8-d09a-4fc3-a9f8-cb8296b4fc8e)
+![3 5](https://github.com/user-attachments/assets/6bcf34e1-1521-4553-bca9-cdb3856e19e0)
